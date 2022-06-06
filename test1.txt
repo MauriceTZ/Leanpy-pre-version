@@ -1,4 +1,3 @@
 hola gente
 wena po chuchetumare : By Mauri
-for n in range(100):
-    print(n)
+aasdasdasd
